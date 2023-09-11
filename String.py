@@ -2,8 +2,8 @@ import pyrogram
 
 app = pyrogram.Client(
     "session_name",
-    13251350,
-    "66c0eacb36f9979ae6d153f207565cd6",
+    14748755,
+    "f93ace2fb70ad896a5432601d8d383ad",
     in_memory=True
 )
 
