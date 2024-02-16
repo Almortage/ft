@@ -31,7 +31,7 @@
 
 ## Get Help :
 
-**- You can contact with the developer : [@Almortagel_12](https://t.me/Almortagel_12)**
+**- You can contact with the developer : [ᯓ 𓆩 ˹ ᴍʀ ᴇʟᴍᴏʀᴛᴀɢᴇʟ ˼⍣⃝🇪🇬𓆪𓆃](https://t.me/Almortagel_12)**
 
 **- Join To [Our Channel](https://t.me/AlmortagelTech) for more projects**
 
