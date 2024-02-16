@@ -2,7 +2,7 @@
 
 # Deploy To Heroku :
 
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/x72x/quran-radio)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://dashboard.heroku.com/new?template=https://github.com/Almortage/ft)
 
 # Host on VPS ( Ubuntu 20.4 +) :
 
@@ -16,7 +16,7 @@
 
 <b>5 - Install git & unzip :</b> <code>sudo apt install git && sudo apt-get install unzip</code>
 
-<b>6 - Clone the repo :</b> <code>git clone https://github.com/x72x/quran-radio</code>
+<b>6 - Clone the repo :</b> <code>git clone https://github.com/Almortage/ft</code>
 
 <b>7 - Unzip quran-radio.zip :</b> <code>unzip quran-radio.zip</code>
 
@@ -31,8 +31,8 @@
 
 ## Get Help :
 
-**- You can contact with the developer : [@DevZaid](https://t.me/DevZaid)**
+**- You can contact with the developer : [@Almortagel_12](https://t.me/Almortagel_12)**
 
-**- Join To [Our Channel](https://t.me/Y88F8) for more projects**
+**- Join To [Our Channel](https://t.me/AlmortagelTech) for more projects**
 
-**- Join To [Support Group](https://t.me/PythonProjectsChat) for questions**
+**- Join To [Support Group](https://t.me/AlmortagelTech2) for questions**
