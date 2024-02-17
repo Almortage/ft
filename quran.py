@@ -69,7 +69,6 @@ async def Call():
                     print(e)
 
 async def main():
-    await app.start()
     print("APP START")
     await call.start()
     print("CALL START")
